@@ -1,5 +1,4 @@
 # vue-manage
-
 ## Project setup
 ```
 yarn install
@@ -19,6 +18,4 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+这是我学习前端的第一个vue项目，vue2的后台管理系统
